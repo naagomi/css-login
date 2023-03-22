@@ -1,3 +1,3 @@
 # css-login
 
-Simple Login Page using CSS/HTML 
+Simple login page using CSS/HTML 
